@@ -18,6 +18,7 @@ const registerEmployee = () => {
         </div>
     `;
 
+
     // DYNAMIC OBJECT
     let dynamicElement = document.createElement("template");
     dynamicElement.innerHTML = templateString;
